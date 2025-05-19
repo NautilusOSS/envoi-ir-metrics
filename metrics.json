@@ -1,10 +1,12 @@
 [
   {
     "totalSupply": "1218",
+    "totalSupplyChange": "1.58%",
     "uniqueHolders": "118",
     "reserveNameCount": "971",
     "totalNamesClaimed": "247",
     "monthlyActiveWallets": "20",
+    "monthlyActiveWalletChange": "0%",
     "averageNamesPerWallet": "2.1",
     "momRegistrationGrowth": "1.58%",
     "dappIntegrations": "8",
@@ -12,11 +14,12 @@
     "discordMembers": "-",
     "discordWeeklyActiveUsers": "-",
     "twitterFollowers": "85",
+    "revenue": "21686",
     "totalGrossRevenue": "1180",
     "premiumNameRevenueShare": "0",
     "grantFunding": "20506",
     "githubRepoStars": "1",
     "hackathonProjectsBuilt": "-",
-    "lastUpdated": "2025-05-18T23:04:25.339Z"
+    "lastUpdated": "2025-05-19T01:03:16.305Z"
   }
 ]
